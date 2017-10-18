@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+  font-family: serif;
+  font-weight:lighter ;
+
+}
+
+
+
+h1 {
+  background-color:#FFCC00;
+  color: black;
+  font-size: large;
+  font-style: normal;
+  padding-left: 10px;
+  padding-top: 10px;
+  text-decoration: none;
+  display: block;
+  height: 110px;
+
+}
+
+h3 {
+  background-color:#333333;
+  color: white;
+  font-size: large;
+  font-style: normal;
+  padding-left: 10px;
+  padding-top: 10px;
+  text-decoration: none;
+  display: block;
+  height: 110px;
+
+}
+
+h2 {
+  background-color:#FFCC00;
+  color: black;
+  font-size: large;
+  font-style: normal;
+  padding-left: 10px;
+  padding-top: 10px;
+  text-decoration: none;
+  display: block;
+  height: 110px;
+
+}
